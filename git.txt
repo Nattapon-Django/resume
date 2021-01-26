@@ -3,3 +3,6 @@ git commit -m "test"
 git push
 
 git clone ..............
+
+
+git pull   ดึงค่าล่าสุด ที่ผ่านการอัพเดทมา
